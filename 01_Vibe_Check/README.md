@@ -45,20 +45,21 @@ You will be required to submit a link to your GitHub, as well as screenshots of 
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
-    - Aspect Tested:
+    - Aspect Tested: Wide-domain knowledge explanation
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    - Aspect Tested: Summarization capability
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    - Aspect Tested: Creative writing and generation 
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    - Aspect Tested: Math reasoning 
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested: Tone adjustment
 
 #### ❓Question #1:
 
 Do the answers appear to be correct and useful?
 ##### ✅ Answer:
+Yes. The application does not specify any constraints or limitations, so the answers appear to be correct and useful.
 
 ---
 
@@ -73,17 +74,113 @@ Now test your assistant with personal questions it should be able to help with. 
 - "What can I cook with [enter ingredients] in fridge."
 
 ##### Your Prompts and Results:
-1. Prompt:
-   - Result:
-2. Prompt:
-   - Result:
-3. Prompt:
-   - Result:
+1. Prompt: Help me think through the pros and cons of switching from my current frontend role into an AI-focused product role.
+   - Result: Absolutely! Transitioning from a frontend role to an AI-focused product role can be an exciting move with many implications. Here are some pros and cons to help you weigh the decision:
+
+### Pros
+
+1. **Broader Impact**  
+   - As a product role, you’ll likely influence the overall direction of AI products, shaping features that affect a larger user base rather than focusing purely on implementation details.
+
+2. **Growth Opportunities**  
+   - AI is a rapidly evolving field with strong demand. Gaining experience in AI product management can open doors to leadership roles and increase your marketability.
+
+3. **Cross-Disciplinary Skills**  
+   - You’ll develop a blend of technical understanding plus product strategy, UX, and business, making your skill set more versatile.
+
+4. **Influence on Innovation**  
+   - You’ll have a chance to work on cutting-edge technologies and innovations, potentially driving the future of AI applications.
+
+5. **Learning and Challenge**  
+   - Moving into product management likely requires learning new skills—market analysis, user research, roadmap planning—which can be professionally rewarding.
+
+---
+
+### Cons
+
+1. **Steep Learning Curve**  
+   - You may need to ramp up on AI concepts, data science fundamentals, and product management skills, which can be challenging initially.
+
+2. **Less Hands-On Coding**  
+   - If you enjoy frontend development and coding, the product role might involve less technical implementation and more coordination and strategy.
+
+3. **Different Metrics of Success**  
+   - Success is measured differently in product roles (e.g., user adoption, revenue, roadmap delivery) versus engineering roles (code quality, feature delivery).
+
+4. **Responsibility and Pressure**  
+   - Product roles often carry accountability for meeting business goals and balancing stakeholder expectations, which can be stressful.
+
+5. **Potential Role Ambiguity**  
+   - Especially in AI products, roles can overlap between data scientists, engineers, and product managers, possibly creating unclear responsibilities.
+
+---
+
+### Considerations to Help Decide
+
+- **Interest in AI**: How passionate are you about AI as a technology and market?  
+- **Career Goals**: Do you see yourself on a technical or strategic leadership path?  
+- **Current Skills**: Are you ready to learn product management and AI concepts?  
+- **Work Environment**: Does the new role’s culture and work style fit your preferences?  
+- **Long-Term Trends**: How do you anticipate the AI field evolving and aligning with your interests?
+
+If you want, I can help you map out steps to prepare for the transition or discuss ways to gradually gain product experience. Would that be helpful?
+
+ - Vibe Result: The assistant provided a structured pros/cons breakdown, touched on career risk, learning curve, and long-term upside, and gave a balanced, realistic tone rather than hype.
+
+2. Prompt: Draft a polite but firm follow-up message to someone who hasn’t replied in a week.
+   - Result: Certainly! Here’s a polite but firm follow-up message you can use:
+
+---
+
+Subject: Following Up on My Previous Message
+
+Dear [Name],
+
+I hope this message finds you well. I wanted to kindly follow up on my email from last week regarding [briefly mention the topic]. I would appreciate an update when you have a moment.
+
+Please let me know if you need any additional information from my side.
+
+Thank you for your attention, and I look forward to your response.
+
+Best regards,  
+[Your Name]
+
+---
+
+Would you like it tailored for a more casual or formal tone?
+
+ - Vibe Result: The assistant produced a clear, concise message with a professional tone and offered a couple of variants depending on how direct I wanted to be.
+
+3. Prompt: What can I cook with eggs, spinach, and feta?
+   - Result: You can make a delicious spinach and feta omelette! Here's a simple recipe:
+
+**Spinach and Feta Omelette**
+
+**Ingredients:**
+- 2-3 eggs
+- A handful of fresh spinach (roughly chopped)
+- 1/4 cup crumbled feta cheese
+- Salt and pepper to taste
+- A little olive oil or butter for cooking
+
+**Instructions:**
+1. Beat the eggs in a bowl with a pinch of salt and pepper.
+2. Heat olive oil or butter in a non-stick skillet over medium heat.
+3. Add the chopped spinach and sauté for 1-2 minutes until wilted.
+4. Pour the beaten eggs over the spinach, spreading evenly.
+5. Sprinkle the feta cheese on top.
+6. Cook until the eggs begin to set, then gently fold the omelette in half.
+7. Cook for another minute until the eggs are fully set and the cheese is warmed.
+8. Serve warm.
+
+Enjoy your tasty and nutritious meal!
+
+ - The assistant suggested a few simple options with minimal steps and no unnecessary explanation.
 
 #### ❓Question #2:
 
 Are the vibes of this assistant's answers aligned with your vibes? Why or why not?
-##### ✅ Answer:
+##### ✅ Answer: Yes. The assistant’s responses were clear, practical, and appropriately toned for personal use. It avoided overexplaining, stayed flexible in style, and focused on being useful rather than verbose, which aligns well with how I expect to use the app.
 
 ---
 
@@ -95,15 +192,24 @@ Now test your assistant with questions that would require capabilities beyond ba
 - "What time should I leave for the airport?"
 
 ##### Your Prompts and Results:
-1. Prompt:
-   - Result:
-2. Prompt:
-   - Result:
+1. Prompt: "What does my schedule look like tomorrow?"
+   - Result: I don’t have access to your personal schedule. You might want to check your calendar app or planner to see what you have planned for tomorrow. If you share your schedule details with me, I can help you organize or summarize them!
+2. Prompt: "What time should I leave for the airport?"
+   - Result: To give you the best advice on what time to leave for the airport, I'll need a bit more information:
+
+1. What time is your flight?
+2. Which airport are you flying from?
+3. How long does it usually take to get to the airport from your location?
+4. Are you checking bags or just carrying on?
+5. Are you flying domestically or internationally?
+6. Do you prefer arriving early for extra time or closer to departure?
+
+With these details, I can help you determine the best time to leave!
 
 #### ❓Question #3:
 
 What are some limitations of your application?
-##### ✅ Answer:
+##### ✅ Answer: The application does not have access to external tools, APIs, or real-time data. It cannot read personal calendars, determine current location, check live traffic conditions, or access flight information. As a result, it can only provide general guidance rather than personalized, real-time answers for scheduling or logistics-related questions.
 
 ---
 
@@ -117,14 +223,20 @@ Please make adjustments to your application that you believe will improve the vi
 
 #### 🏗️ Activity #1
 ##### Adjustments Made:
-- _describe adjustment(s) here_
+- Instead of generic AI chatbot I refactored it to be an AI-powered freediving coach (https://diving-coach.vercel.app/about) that uses retrieval-augmented generation to answer theory questions with accurate, source-backed guidance from official AIDA training manuals.
+- Added RAG system - Vector search with OpenAI embeddings (696 document chunks)
+- Hybrid knowledge base - AIDA manuals (local PDFs) + SSI blog articles (web scraping)
+- Structured citations - Responses cite sources [Source 1], [Source 2] for transparency
+- Adaptive templates - Beginner/Default/Advanced instructor modes
+- Similarity toggle - Cosine vs Euclidean search comparison
+- Metrics dashboard - Visualize embeddings, search performance, vector stats
 
 ##### Results:
-1. _Comment here how the change(s) impacted the vibe check of your system_
-2.
-3.
-4.
-5.
+1. Dramatically improved! RAG retrieves exact manual sections, cites sources, provides authoritative answers. Before: Generic GPT-4 knowledge. After: Cited AIDA2/3/4 manual content.
+2. Users see source citations, can verify information. Builds trust.
+3. Better for diving education. Template selector adds personalization. Metrics dashboard shows "how it works."
+4. General questions are now limited. Example: "Explain Object-Oriented Programming" now gets this answer: I’m here to help with freediving questions and safety tips! Building a bike isn’t really my area of expertise, but if you have any questions about freediving basics, breath-holding techniques, or safety rules, feel free to ask. Safety and proper technique are super important when you’re starting out underwater. Let me know how I can help with that!
+5. Prompt engineering is more effective. Example: "What is the best way to equalize my ears?" now gets this answer: The best way to equalize your ears is to practice the Frenzel maneuver [Source 1] underwater. This is more efficient than the Valsalva maneuver at depth. For advanced divers, the mouthfill technique [Source 2] allows equalization at depths where lung volume is significantly compressed. According to [Source 1], practicing equalization on land is essential before attempting deep dives. Safety protocols emphasize equalizing early and often [Source 3] to prevent injury.
 
 
 ## Submitting Your Homework
